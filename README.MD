@@ -1,4 +1,4 @@
-# Classificador de intenções e Identificador de entidades
+# Webservice REST com Django Rest Framework
 
 [![Python](https://img.shields.io/badge/Python-v3.11-blue)](https://www.python.org/downloads/release/python-3111/)
 [![Django](https://img.shields.io/badge/Django-v4.1.5-orange)](https://docs.djangoproject.com/en/4.1/)
